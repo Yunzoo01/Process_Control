@@ -7,6 +7,10 @@ This project is a personal study project designed to learn how to manage and con
 - Terminate specified processes
 - Monitor system performance
 
+## 🌻Getting Started
+- Development Environment: Windows 10 Pro
+- Development Tools: Visual Studio Community 2019
+- Technology Stack: C++, Winsock
 
 
 ## 🌻Result
