@@ -10,7 +10,7 @@ This project is a personal study project designed to learn how to manage and con
 ## 🌻Getting Started
 - Development Environment: Windows 10 Pro
 - Development Tools: Visual Studio Community 2019
-- Technology Stack: C++, Winsock
+- Technology Stack: C++, Windows API
 
 
 ## 🌻Result
