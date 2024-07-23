@@ -1,4 +1,15 @@
+# Process_Control
 
+## 🌻Description
+This project is a personal study project designed to learn how to manage and control processes using Winsock and the Windows API in a C++ environment. It provides practical examples of system programming and resource management.
+
+- List currently running processes
+- Terminate specified processes
+- Monitor system performance
+
+
+
+## 🌻Result
 ![image](https://github.com/user-attachments/assets/8261b5c1-e072-4fbe-a78f-f7bb680837e6)
 ![image](https://github.com/user-attachments/assets/edff66bb-93e6-4bcd-8906-64ade26cc8e4)
 ![image](https://github.com/user-attachments/assets/5221fb5c-5470-43ea-8d13-12bed6dba5c4)
